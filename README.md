@@ -2,14 +2,14 @@
 <!--   ANURAG adx - TERMINAL STYLE (WHITE THEME)  -->
 <!-- ============================================ -->
 
-<!-- TYPING ANIMATION - CUSTOM TEXT -->
+<!-- TYPING ANIMATION - adxUI -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=print(%22anurag+XD%22);adx+X+OS;print(%22FAHHHHH%22);Hacker+Mode+ON+%F0%9F%92%BB" alt="Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=print(%22anurag+XD%22);adx+X+OS;print(%22FAHHHHH%22);adxUI" alt="Terminal" />
 </p>
 
-<!-- MAIN ASCII BANNER - ANURAG adx -->
+<!-- MAIN ASCII BANNER - ANURAG CODE LINES STYLE -->
 <p align="center">
-  <pre style="color: #ffffff; font-family: 'Courier New';">
+  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║   █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗         ║
@@ -29,42 +29,10 @@
 ║  >>> print("anurag XD")                                       ║
 ║  >>> adx X OS                                                ║
 ║  >>> print("FAHHHHH")                                        ║
+║  >>> adxUI                                                   ║
 ║                                                               ║
 ║  [STATUS] ANURAG | adxLABS Activated 🔥                     ║
 ╚═══════════════════════════════════════════════════════════════╝
-  </pre>
-</p>
-
-<!-- RUNNING BANDAA ASCII -->
-<p align="center">
-  <pre style="color: #ffffff; font-family: 'Courier New';">
-        
-              ────▄▄▄▄▄▄▄▄────
-              ──▄▀─────────▀▄──
-              ─▀─────────────▀─
-              ─█───▄▄▄▄▄▄▄───█─
-              ─█───█▄▄▄▄▄█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─█───█─────█───█─
-              ─▀───▀─────▀───▀─
-              ───▄▄▄▄▄▄▄▄▄▄▄───
-              ──▄▀─────────▀▄──
-              ─▀───▄▄▄▄▄▄▄───▀─
-              ─█───▀▀▀▀▀▀▀───█─
-              ─█─────▄▄▄─────█─
-              ─█─────███─────█─
-              ─█─────███─────█─
-              ─█─────▀▀▀─────█─
-              ─▀─────────────▀─
-              ──▄───────────▄──
-              ───▀▄▄▄▄▄▄▄▄▄▀───
   </pre>
 </p>
 
@@ -83,7 +51,7 @@
 ║  [LABS]   : adxLABS                      ║
 ║  [ROLE]   : Full Stack Developer         ║
 ║  [MOTTO]  : "Code is the new black"      ║
-║  [STATUS] : Always Hacking 🔥            ║
+║  [STATUS] : adxUI                        ║
 ╚═══════════════════════════════════════════╝
   </pre>
 </p>
@@ -92,6 +60,7 @@
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> print("anurag XD")</h2>
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> adx X OS</h2>
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> print("FAHHHHH")</h2>
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> adxUI</h2>
 
 <!-- TECH STACK -->
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">[root@ANURAG ~]# ls /usr/bin/</h2>
@@ -141,6 +110,6 @@
 ╔═══════════════════════════════════════════╗<br>
 ║  [root@ANURAG ~]# exit                    ║<br>
 ║  [SYSTEM] : ANURAG | adxLABS             ║<br>
-║  [STATUS] : "Code is the new black" 🚀   ║<br>
+║  [STATUS] : adxUI 🚀                     ║<br>
 ╚═══════════════════════════════════════════╝
 </p>
