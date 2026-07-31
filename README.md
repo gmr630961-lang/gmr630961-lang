@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=print(%22anurag+XD%22);adx+X+OS;print(%22FAHHHHH%22);Hacker+Mode+ON+%F0%9F%92%BB" alt="Terminal" />
 </p>
 
-<!-- MAIN ASCII BANNER - ANURAG adx (WHITE) -->
+<!-- MAIN ASCII BANNER - ANURAG adx -->
 <p align="center">
   <pre style="color: #ffffff; font-family: 'Courier New';">
 ╔═══════════════════════════════════════════════════════════════╗
@@ -73,7 +73,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<!-- ABOUT - TERMINAL COMMAND -->
+<!-- ABOUT -->
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">[root@ANURAG ~]# ./about.sh</h2>
 
 <p align="center" style="color: #ffffff; font-family: 'Courier New';">
@@ -88,7 +88,7 @@
   </pre>
 </p>
 
-<!-- CUSTOM TEXT SECTION -->
+<!-- CUSTOM TEXT -->
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> print("anurag XD")</h2>
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> adx X OS</h2>
 <h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> print("FAHHHHH")</h2>
@@ -128,6 +128,13 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gmr630961-lang&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmr630961-lang/gmr630961-lang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmr630961-lang/gmr630961-lang/output/github-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/gmr630961-lang/gmr630961-lang/output/github-snake.svg" />
+</picture>
 
 <!-- FOOTER -->
 <p align="center" style="color: #ffffff; font-family: 'Courier New'; font-size: 14px;">
