@@ -1,13 +1,15 @@
 <!-- ============================================ -->
-<!--   ANURAG adx - TERMINAL HACKER STYLE         -->
+<!--   ANURAG adx - TERMINAL STYLE (WHITE THEME)  -->
 <!-- ============================================ -->
 
+<!-- TYPING ANIMATION - CUSTOM TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=root%40ANURAG%3A~%23+whoami;ANURAG+%7C+adxLABS;Hacker+Mode+ON+%F0%9F%92%BB" alt="Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=print(%22anurag+XD%22);adx+X+OS;print(%22FAHHHHH%22);Hacker+Mode+ON+%F0%9F%92%BB" alt="Terminal" />
 </p>
 
+<!-- MAIN ASCII BANNER - ANURAG adx (WHITE) -->
 <p align="center">
-  <pre style="color: #00ff00; font-family: 'Courier New';">
+  <pre style="color: #ffffff; font-family: 'Courier New';">
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║   █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗         ║
@@ -24,20 +26,57 @@
 ║ ██║  ██║██████╔╝██╔╝ ██╗███████╗██║  ██║██████╔╝███████║    ║
 ║ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝    ║
 ║                                                               ║
-║  [root@ANURAG ~]# ./hack.sh --mode=adx                       ║
-║  [SUCCESS] System Hacked!                                    ║
+║  >>> print("anurag XD")                                       ║
+║  >>> adx X OS                                                ║
+║  >>> print("FAHHHHH")                                        ║
+║                                                               ║
 ║  [STATUS] ANURAG | adxLABS Activated 🔥                     ║
 ╚═══════════════════════════════════════════════════════════════╝
   </pre>
 </p>
 
+<!-- RUNNING BANDAA ASCII -->
+<p align="center">
+  <pre style="color: #ffffff; font-family: 'Courier New';">
+        
+              ────▄▄▄▄▄▄▄▄────
+              ──▄▀─────────▀▄──
+              ─▀─────────────▀─
+              ─█───▄▄▄▄▄▄▄───█─
+              ─█───█▄▄▄▄▄█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─█───█─────█───█─
+              ─▀───▀─────▀───▀─
+              ───▄▄▄▄▄▄▄▄▄▄▄───
+              ──▄▀─────────▀▄──
+              ─▀───▄▄▄▄▄▄▄───▀─
+              ─█───▀▀▀▀▀▀▀───█─
+              ─█─────▄▄▄─────█─
+              ─█─────███─────█─
+              ─█─────███─────█─
+              ─█─────▀▀▀─────█─
+              ─▀─────────────▀─
+              ──▄───────────▄──
+              ───▀▄▄▄▄▄▄▄▄▄▀───
+  </pre>
+</p>
+
+<!-- DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New';">[root@ANURAG ~]# ./about.sh</h2>
+<!-- ABOUT - TERMINAL COMMAND -->
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">[root@ANURAG ~]# ./about.sh</h2>
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New';">
+<p align="center" style="color: #ffffff; font-family: 'Courier New';">
   <pre>
 ╔═══════════════════════════════════════════╗
 ║  [USER]   : ANURAG                       ║
@@ -49,7 +88,13 @@
   </pre>
 </p>
 
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New';">[root@ANURAG ~]# ls /usr/bin/</h2>
+<!-- CUSTOM TEXT SECTION -->
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> print("anurag XD")</h2>
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> adx X OS</h2>
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">>>> print("FAHHHHH")</h2>
+
+<!-- TECH STACK -->
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">[root@ANURAG ~]# ls /usr/bin/</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -60,28 +105,32 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New';">[root@ANURAG ~]# ./stats.sh</h2>
+<!-- GITHUB STATS -->
+<h2 align="center" style="color: #ffffff; font-family: 'Courier New';">[root@ANURAG ~]# ./stats.sh</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmr630961-lang&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmr630961-lang&theme=merko&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gmr630961-lang&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmr630961-lang&theme=dark&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmr630961-lang&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmr630961-lang&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="50%" />
 </p>
 
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gmr630961-lang&label=[PROFILE_VIEWS]&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/gmr630961-lang?label=[FOLLOWERS]&style=social" />
   <img src="https://img.shields.io/github/stars/gmr630961-lang?label=[STARS]&style=social" />
 </p>
 
+<!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gmr630961-lang&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gmr630961-lang&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New'; font-size: 14px;">
+<!-- FOOTER -->
+<p align="center" style="color: #ffffff; font-family: 'Courier New'; font-size: 14px;">
 ╔═══════════════════════════════════════════╗<br>
 ║  [root@ANURAG ~]# exit                    ║<br>
 ║  [SYSTEM] : ANURAG | adxLABS             ║<br>
