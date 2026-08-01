@@ -1,5 +1,5 @@
 <!-- ============================================ -->
-<!--   ANURAG adx - WHITE THEME + ASCII PFP       -->
+<!--   ANURAG adx - WHITE THEME + CODE LAYER REVEAL  -->
 <!-- ============================================ -->
 
 <!-- TYPING ANIMATION -->
@@ -7,64 +7,52 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=700&pause=100&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=print(%22anurag+XD%22);adx+X+OS;print(%22anurag+adxLABS%22)" />
 </p>
 
-<!-- ASCII PFP - LAYER BY LAYER (ANURAG) -->
+<!-- LAYERED CODE-LINES DISPLAY -->
 <p align="center">
-  <!-- FIGlet banner + layered reveal -->
-  <!-- Layer 1: canvas -->
-  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.0;">
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║                                                               ║
-║                                                               ║
-║                                                               ║
-║                                                               ║
-║                                                               ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+  <h3 style="color: #ffffff; font-family: 'Courier New';">Layered code reveal (canvas → build → final)</h3>
+
+  <!-- Layer 1: canvas (empty shell) -->
+  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.0; background: transparent; padding: 12px; border-radius:6px;">
+/* Layer 1: Canvas (starting point) */
+function start() {
+  // initializing...
+}
   </pre>
 
-  <!-- Layer 2: partial build -->
-  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.0;">
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   █████╗ ███╗   ██╗██╗   ██╗   █████╗  ██████╗ ██████╗  ██████  ║
-║  ██╔══██╗████╗  ██║██║   ██║  ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗║
-║  ███████║██╔██╗ ██║██║   ██║  ███████║██║   ██║██████╔╝██║   ██║║
-║  ██╔══██║██║╚██╗██║██║   ██║  ██╔══██║██║   ██║██╔══██╗██║   ██║║
-║  ██║  ██║██║ ╚████║╚██████╔╝  ██║  ██║╚██████╔╝██║  ██║╚██████╔╝║
-║  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ║
-╚═══════════════════════════════════════════════════════════════╝
+  <!-- Layer 2: partial build (some lines added) -->
+  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.0; background: transparent; padding: 12px; border-radius:6px;">
+/* Layer 2: Partial build */
+function start() {
+  // initializing...
+  const user = "anurag";
+  const lab = "adxLABS";
+  console.log(`Welcome ${user} @ ${lab}`);
+}
   </pre>
 
-  <!-- Layer 3: full FIGlet + details -->
-  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.0;">
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  █████╗ ███╗   ██╗██╗   ██╗   █████╗  ██████╗ ██████╗  ██████   ║
-║ ██╔══██╗████╗  ██║██║   ██║  ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗  ║
-║ ███████║██╔██╗ ██║██║   ██║  ███████║██║   ██║██████╔╝██║   ██║  ║
-║ ██╔══██║██║╚██╗██║██║   ██║  ██╔══██║██║   ██║██╔══██╗██║   ██║  ║
-║ ██║  ██║██║ ╚████║╚██████╔╝  ██║  ██║╚██████╔╝██║  ██║╚██████╔╝  ║
-║ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ║
-║                                                               ║
-║                    anurag adxLABS (FIGlet)                     ║
-║                                                               ║
-║  ┌─────────────────────────────────────────────────────────┐  ║
-║  │  [USER]   : ANURAG                                     │  ║
-║  │  [LABS]   : adxLABS                                    │  ║
-║  │  [ROLE]   : Full Stack Developer                       │  ║
-║  │  [MOTTO]  : "Code is the new black"                    │  ║
-║  │  [STATUS] : adxUI 🔥                                   │  ║
-║  └─────────────────────────────────────────────────────────┘  ║
-║                                                               ║
-║  >>> print("anurag XD")                                       ║
-║  >>> adx X OS                                                ║
-║  >>> print("FAHHHHH")                                        ║
-║  >>> adxUI                                                   ║
-║                                                               ║
-║  [STATUS] ANURAG | adxLABS Activated 🔥                     ║
-╚═══════════════════════════════════════════════════════════════╝
+  <!-- Layer 3: final code (full content) -->
+  <pre style="color: #ffffff; font-family: 'Courier New'; line-height: 1.0; background: transparent; padding: 12px; border-radius:6px;">
+/* Layer 3: Final (full) */
+function start() {
+  // initializing...
+  const user = "anurag";
+  const lab = "adxLABS";
+  const role = "Full Stack Developer";
+
+  const status = {
+    ui: "adxUI",
+    active: true
+  };
+
+  console.log(`Welcome ${user} @ ${lab}`);
+  console.log(`Role: ${role}`);
+  console.log(`Status: ${status.ui} (active=${status.active})`);
+}
+
+start();
   </pre>
+
+  <p style="color:#ffffff; font-family: 'Courier New';">Tip: GitHub README can't animate code lines automatically; showing them as separate layers simulates a step-by-step reveal. If you want an actual animated reveal on the page, we can upgrade this to use multiple images or a small GIF that cycles through the layers.</p>
 </p>
 
 <!-- DIVIDER -->
